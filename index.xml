@@ -12,16 +12,21 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ada-cheng.github.io/about/</guid>
-      <description>Minimum About Me A sophomore from Peking University. I am also a student major in Computer Science. I am interested in GNN(Graph Neural Network) and machine learning theory.</description>
+      <description>Minimum About Me A sophomore from Peking University, majoring in Computer Science.
+I am interested in CV(Computer Vision), GNN(Graph Neural Network) and machine learning theory.
+Also a foodie.
+Research Experience Peking University (PKU CoRe Lab)
+Undergrad Research
+Feb. 2023 – Present</description>
     </item>
     
     <item>
-      <title>My Blogs</title>
+      <title>Publications</title>
       <link>https://ada-cheng.github.io/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ada-cheng.github.io/post/</guid>
-      <description>Here Are My Recent Work [View my github]</description>
+      <description>Here Are My Recent Publications View my github</description>
     </item>
     
   </channel>
