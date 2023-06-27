@@ -5,28 +5,72 @@
     <link>https://ada-cheng.github.io/</link>
     <description>Recent content in Home Page on Xinle Cheng&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ada-cheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2023 00:31:00 +0800</lastBuildDate><atom:link href="https://ada-cheng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>https://ada-cheng.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Tiramisu</title>
+      <link>https://ada-cheng.github.io/chinese-blogs/tiramisu-is-delicious/</link>
+      <pubDate>Tue, 20 Jun 2023 00:31:00 +0800</pubDate>
       
-      <guid>https://ada-cheng.github.io/about/</guid>
-      <description>Minimum About Me A sophomore from Peking University, majoring in Computer Science.
-I am interested in CV(Computer Vision), GNN(Graph Neural Network) and machine learning theory.
-Also a foodie.
-Research Experience Peking University (PKU CoRe Lab)
-Undergrad Research
-Feb. 2023 – Present</description>
+      <guid>https://ada-cheng.github.io/chinese-blogs/tiramisu-is-delicious/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这学期还是发生了很多让人开心的事情的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;期末挺多的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;星巴克提拉米苏很湿润很好吃 我买了一次别家的外卖才发现 它是真的有咖啡酒在&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://ada-cheng.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>洛阳纸贵</title>
+      <link>https://ada-cheng.github.io/chinese-blogs/%E6%B4%9B%E9%98%B3%E7%BA%B8%E8%B4%B5/</link>
+      <pubDate>Fri, 16 Jun 2023 00:24:00 +0800</pubDate>
       
-      <guid>https://ada-cheng.github.io/post/</guid>
-      <description>Here Are My Recent Publications View my github</description>
+      <guid>https://ada-cheng.github.io/chinese-blogs/%E6%B4%9B%E9%98%B3%E7%BA%B8%E8%B4%B5/</guid>
+      <description>&lt;p&gt;那写一些我喜欢过的人好了。&lt;/p&gt;
+&lt;p&gt;我喜欢王冠香说，“大信科的同学”，因为每当这时候，感觉在数学能力方面被当成小孩子看了，有点被人文关怀到的感觉。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flipped Again</title>
+      <link>https://ada-cheng.github.io/chinese-blogs/flipped-again/</link>
+      <pubDate>Tue, 30 May 2023 11:35:00 +0800</pubDate>
+      
+      <guid>https://ada-cheng.github.io/chinese-blogs/flipped-again/</guid>
+      <description>还有一件事情，就是，我到了大四也会常常心动，心驰神往的。</description>
+    </item>
+    
+    <item>
+      <title>Ideas that Arise during Test Prep</title>
+      <link>https://ada-cheng.github.io/chinese-blogs/ideas-that-arise-during-test-prep/</link>
+      <pubDate>Tue, 30 May 2023 11:35:00 +0800</pubDate>
+      
+      <guid>https://ada-cheng.github.io/chinese-blogs/ideas-that-arise-during-test-prep/</guid>
+      <description>&lt;p&gt;此时暮色很好，&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Motcha</title>
+      <link>https://ada-cheng.github.io/chinese-blogs/motcha/</link>
+      <pubDate>Tue, 30 May 2023 00:10:00 +0800</pubDate>
+      
+      <guid>https://ada-cheng.github.io/chinese-blogs/motcha/</guid>
+      <description>&lt;p&gt;刚刚在想，明天还有一些高代要补，然后就想起来，去年的时候，
+somehow也翘课，于是有一天晚上，我带着抹茶冰淇淋在地学楼补高代。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cheese and Focus</title>
+      <link>https://ada-cheng.github.io/chinese-blogs/cheese-and-focus/</link>
+      <pubDate>Mon, 29 May 2023 22:41:00 +0800</pubDate>
+      
+      <guid>https://ada-cheng.github.io/chinese-blogs/cheese-and-focus/</guid>
+      <description>&lt;p&gt;我上一次是披萨是昨天中午，上上次吃披萨是前天中午，&lt;/p&gt;</description>
     </item>
     
   </channel>

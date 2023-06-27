@@ -1,0 +1,17 @@
+.center-image {
+    display: block;
+    margin: 0.7rem auto;
+    /* Additional styles for center-aligned images */
+}
+
+.float-left {
+    float: left;
+    margin: 0.7rem;
+    /* Additional styles for left-aligned images */
+}
+
+.float-right {
+    float: right;
+    margin: 0.7rem;
+    /* Additional styles for right-aligned images */
+}
