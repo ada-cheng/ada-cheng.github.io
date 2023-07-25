@@ -2,15 +2,56 @@
 .sidebar {
     position: fixed;
     top: 50%; /* 调整 top 值以垂直定位侧边栏 */
-    right: 20px; /* 调整 right 值以离页面右侧的距离 */
+    right: -300px; /* 将侧边栏隐藏在页面右侧 */
     transform: translateY(-50%); /* 垂直居中侧边栏 */
     width: 300px; /* 设置侧边栏的宽度 */
     background-color: #f0f0f0; /* 设置侧边栏的背景颜色 */
     padding: 20px; /* 添加 padding，根据需要设置其他样式 */
     z-index: 999; /* 设置一个较高的值确保侧边栏出现在其他元素之上 */
-  }
-  
-  .sidebar-visible {
-    right: 0; /* 当侧边栏可见时，将它与页面右侧对齐 */
-  }
-  
+    transition: right 0.3s ease; /* 添加过渡效果，使侧边栏滑动显示/隐藏 */
+}
+
+/* Your existing .sidebar-visible styles */
+
+/* Add styles for the toggle button */
+.toggle-sidebar-btn {
+    position: fixed;
+    top: 50%; /* Adjust the top value to position the button vertically */
+    right: 20px; /* Adjust the right value to position the button from the right edge */
+    transform: translateY(-50%); /* Center the button vertically */
+    z-index: 1000; /* Set a high value to make sure the button appears above other elements */
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border: none;
+    cursor: pointer;
+}
+
+
+.wechat-btn {
+    background-color: #d45ae4;
+    position: fixed;
+    top: 50%; /* Adjust the top value to position the button vertically */
+    right: 20px; /* Adjust the right value to position the button from the right edge */
+    color: #fff;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+    width: 100px;
+}
+
+.bilibili-btn {
+    background-color: #d45ae4;
+    position: fixed;
+    top: 60%; /* Adjust the top value to position the button vertically */
+    right: 20px; /* Adjust the right value to position the button from the right edge */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    width: 100px;
+}
+
+
+/* Add additional styles for the button as needed */
