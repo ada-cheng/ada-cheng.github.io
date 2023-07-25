@@ -1,0 +1,16 @@
+/* /static/custom-sidebar.css */
+.sidebar {
+    position: fixed;
+    top: 50%; /* 调整 top 值以垂直定位侧边栏 */
+    right: 20px; /* 调整 right 值以离页面右侧的距离 */
+    transform: translateY(-50%); /* 垂直居中侧边栏 */
+    width: 300px; /* 设置侧边栏的宽度 */
+    background-color: #f0f0f0; /* 设置侧边栏的背景颜色 */
+    padding: 20px; /* 添加 padding，根据需要设置其他样式 */
+    z-index: 999; /* 设置一个较高的值确保侧边栏出现在其他元素之上 */
+  }
+  
+  .sidebar-visible {
+    right: 0; /* 当侧边栏可见时，将它与页面右侧对齐 */
+  }
+  
